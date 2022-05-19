@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>https://magicstore.tk</loc>
-    <lastmod>2022-05-19</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://magicstore.tk/assets/images/back.png</image:loc>
-      <url>
-        <loc>https://magicstore.tk/</loc>
-        <lastmod>2022-05-19</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>1.0</priority>
-        <image:image>
-          <image:loc>https://magicstore.tk/assets/images/back.png</image:loc>
-        </image:image>
-      </url>
-    </image:image>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://magicshop.tk/</loc>
+  <lastmod>2022-05-19T19:07:46+00:00</lastmod>
+</url>
+<url>
+  <loc>https://magicshop.tk/sitemap.xml</loc>
+  <lastmod>2022-05-19T19:07:46+00:00</lastmod>
+</url>
+<url>
+  <loc>https://magicshop.tk/robots.txt</loc>
+  <lastmod>2022-05-19T19:07:46+00:00</lastmod>
+</url>
+<url>
+  <loc>https://magicshop.tk/assets/images/back.png</loc>
+  <lastmod>2022-05-19T19:07:46+00:00</lastmod>
+</url>
+
+
 </urlset>
